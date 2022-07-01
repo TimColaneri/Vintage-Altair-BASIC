@@ -3,4 +3,5 @@ An interpreter for the Vintage/Altair BASIC programming language written in Pyth
 
 # References  
 Vintage BASIC: http://www.vintage-basic.net/index.html  
-Altair BASIC: https://en.wikipedia.org/wiki/Altair_BASIC  /  altairbasic.org  
+Altair BASIC: https://en.wikipedia.org/wiki/Altair_BASIC  
+              https://altairbasic.org  
